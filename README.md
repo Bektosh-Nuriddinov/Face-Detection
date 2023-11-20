@@ -24,8 +24,14 @@ First, you must have the [Python](https://www.python.org/) programming language 
 #### Step 2
 Then download this project to your computer
 #### Step 3
-Go to the file and install the requirements.
+Go to the project file and install the requirements.
 ```bash
 pip install -r requirements.txt
 ```
 This is take some time.
+### Usage
+We have everything ready.<br>
+Run the project:CMD
+```bash
+streamlit run streamlit_app.py 
+```
