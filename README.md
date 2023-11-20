@@ -38,7 +38,7 @@ streamlit run streamlit_app.py
 Congratulations. Now you can go to the browser and use the project.
 <br>
 <div align="center">
-  <a href="https://github.com/ultralytics"><img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-github.png" width="2%" alt="Ultralytics GitHub"></a>
+  <a href="https://github.com/Bektosh-Nuriddinovich"><img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-github.png" width="2%" alt="GitHub"></a>
   <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="2%">
   <a href="https://www.linkedin.com/company/ultralytics/"><img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-linkedin.png" width="2%" alt="Ultralytics LinkedIn"></a>
   <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="2%">
