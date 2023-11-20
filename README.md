@@ -35,3 +35,4 @@ Run the project:CMD
 ```bash
 streamlit run streamlit_app.py 
 ```
+Congratulations. Now you can go to the browser and use the project.
