@@ -37,6 +37,8 @@ streamlit run streamlit_app.py
 ```
 Congratulations. Now you can go to the browser and use the project.
 <br>
+## <div align="center">Contact</div>
+<br>
 <div align="center">
   <a href="https://github.com/Bektosh-Nuriddinov"><img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-github.png" width="2%" alt="GitHub"></a>
   <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="2%">
