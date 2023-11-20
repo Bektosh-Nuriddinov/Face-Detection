@@ -19,5 +19,5 @@ YOLOv8m was used during model training. You can see its parameters below.<br>
 100 epoch have passed in the sample train process. Accuracy is 84.2%.This was a trial project, it was trained in fewer periods. If you need higher accuracy, increase the epoch and you will achieve the goal.
 
 ### Install
-<il>First, you must have the [Python](https://www.python.org/) programming language installed on your computer. If it is not installed, install it.</il>
+<il> First, you must have the [Python](https://www.python.org/) programming language installed on your computer. If it is not installed, install it. </il>
 <il>Then download this project to your computer.</il>
