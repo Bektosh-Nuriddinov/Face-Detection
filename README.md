@@ -13,8 +13,10 @@ YOLOv8m was used during model training. You can see its parameters below.<br>
 | Model                                                                                     | size<br><sup>(pixels) | mAP<sup>val<br>50-95 | Speed<br><sup>CPU ONNX<br>(ms) | Speed<br><sup>A100 TensorRT<br>(ms) | params<br><sup>(M) | FLOPs<br><sup>(B) |
 | ----------------------------------------------------------------------------------------- | --------------------- | -------------------- | ------------------------------ | ----------------------------------- | ------------------ | ----------------- |
 | [YOLOv8m](https://github.com/ultralytics/assets/releases/download/v0.0.0/yolov8m-oiv7.pt) | 640                   | 33.6                 | 408.5                          | 2.26                                | 26.2               | 80.6              |
+
 <br>
 100 epoch have passed in the sample train process. Accuracy is 84.2%.This was a trial project, it was trained in fewer periods. If you need higher accuracy, increase the epoch and you will achieve the goal.
+
 ### Install
 <il>First, you must have the [Python](https://www.python.org/) programming language installed on your computer. If it is not installed, install it.</il>
 <il>Then download this project to your computer.</il>
