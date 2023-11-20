@@ -2,13 +2,12 @@ ___
 # Face-Detection
 This project can detect human face using comera.The project is based on artificial intelligence, written in [Python](https://www.python.org/) programming language, and the model training part uses [YOLOV8](https://github.com/ultralytics/ultralytics) provided by ultralytics, and the interface is made using [Streamlit](https://docs.streamlit.io/).<br>
 #### Datasets
-You can get the datasets used in model training through the link below -> [Link](https://app.roboflow.com/ds/IcTG6m9LEy?key=WGrMr9XBR9)
+You can get the datasets used in model training through the link below.
 <br>
 | Dataset                                                                                     | Total<br><sup>Images | Validation<sup>val<br>Images | Test<br><sup>Images |
 | ----------------------------------------------------------------------------------------- | --------------------- | -------------------- | ------------------------------ |
-| [Link](https://app.roboflow.com/ds/IcTG6m9LEy?key=WGrMr9XBR9) | 5741                   | 477                 | 442                         |
+| [dataset V6](https://app.roboflow.com/ds/IcTG6m9LEy?key=WGrMr9XBR9) | 5741                   | 477                 | 442                         |
 <br>
-The dataset consists of a total of 5741 labeled images.5022 images for train,477 images for validation ,442 images for test are   splited.
   
 #### Model Training
 YOLOv8m was used during model training. You can see its parameters below.<br>
