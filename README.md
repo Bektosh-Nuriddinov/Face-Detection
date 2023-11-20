@@ -8,6 +8,7 @@ You can get the datasets used in model training through the link below.
 | ----------------------------------------------------------------------------------------- | --------------------- | -------------------- | ------------------------------ |
 | [dataset V6](https://app.roboflow.com/ds/IcTG6m9LEy?key=WGrMr9XBR9) | 5741                   | 477                 | 442                         |
 <br>
+
 ### Model Training
 YOLOv8m was used during model training. You can see its parameters below.<br>
 | Model                                                                                     | size<br><sup>(pixels) | mAP<sup>val<br>50-95 | Speed<br><sup>CPU ONNX<br>(ms) | Speed<br><sup>A100 TensorRT<br>(ms) | params<br><sup>(M) | FLOPs<br><sup>(B) |
