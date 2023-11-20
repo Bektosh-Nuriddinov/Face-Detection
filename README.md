@@ -10,7 +10,7 @@ This project can detect human face using comera.The project is based on artifici
 </details>
 <details>
   
-  ### Model Training
+  <summary>Model Training</summary>
   YOLOv8m was used during model training. You can see its parameters below.
   | Model                                                                                     | size<br><sup>(pixels) | mAP<sup>val<br>50-95 | Speed<br><sup>CPU ONNX<br>(ms) | Speed<br><sup>A100 TensorRT<br>(ms) | params<br><sup>(M) | FLOPs<br><sup>(B) |
   | ----------------------------------------------------------------------------------------- | --------------------- | -------------------- | ------------------------------ | ----------------------------------- | ------------------ | ----------------- |
