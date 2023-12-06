@@ -1,14 +1,6 @@
 import tempfile
 
 import streamlit as st
-from ultralytics import YOLO
-import cv2
-from PIL import Image
-import time
-
-model = YOLO("best (2).pt")
-demo_img = "Team.jpeg"
-DEMO_VIDEO = "1.mp4"
 
 st.title('Face Detection Application')
 
